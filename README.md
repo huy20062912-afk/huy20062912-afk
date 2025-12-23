@@ -1,5 +1,5 @@
 ## Hi
-https://leetcard.jacoblin.cool/UETK70_genhui?theme=dark&font=source%20code%20pro&ext=heatmap
+!(https://leetcard.jacoblin.cool/UETK70_genhui?theme=dark&font=source%20code%20pro&ext=heatmap)
 <!--
 **huy20062912-afk/huy20062912-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
